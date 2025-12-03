@@ -1,0 +1,8 @@
+{
+  "name": "ci-cd-demon",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "echo 'running sample test...'"
+  }
+}
+    
